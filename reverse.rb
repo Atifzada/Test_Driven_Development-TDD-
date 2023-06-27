@@ -1,5 +1,5 @@
 module Reverse
-  def reverse(word)
-    word.reverse
+  def reverse(string)
+    string.reverse
   end
 end
