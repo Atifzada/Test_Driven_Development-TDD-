@@ -1,13 +1,13 @@
 require_relative '../reverse'
 
 describe Reverse do
-  describe '#reverse_word' do
-    include Reverse
+  include Reverse
 
+  describe '#reverse_string' do
     it 'correctly reverses a word' do
-      word = 'world'
-      reversed = reverse_word(word)
-      expect(reversed).to eq('dlrow')
+      word = 'atif'
+      reversed = reverse_string(word)
+      expect(reversed).to eq('fita')
     end
   end
 end
