@@ -141,7 +141,7 @@ Possible future features for this project include:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Atifzada/Test_Driven_Development-TDD-.git/issues).
+Feel free to check the [issues page](https://github.com/Atifzada/Test_Driven_Development-TDD-/issues).
 
 If you would like to contribute to this project, you can follow these steps:
 
