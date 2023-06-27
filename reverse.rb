@@ -1,5 +1,5 @@
 module Reverse
-  def reverse_string(string)
+  def reverse(string)
     string.reverse
   end
 end
