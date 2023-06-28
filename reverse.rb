@@ -1,4 +1,4 @@
-module Reverse
+﻿module Reverse
   def reverse(string)
     string.reverse
   end
