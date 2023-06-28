@@ -27,7 +27,7 @@
 
 # 📖TDD Project<a name="about-project"></a>
 
-In this project, the goal is to implement a class called Solver with three methods (factorial, reverse, and fizzbuzz) using the test-driven development (TDD) approach. TDD involves writing tests before writing the actual code. For the factorial method, it calculates the factorial of a given number, ensuring that it handles special cases like 0 and negative numbers. The reverse method reverses a given word, and the fizzbuzz method constructs a string based on a given number, following specific rules. The TDD approach ensures that tests are written to define the expected behavior of each method, and the code is then implemented to pass those tests. This iterative process of writing tests first helps guide the development, improves code quality, and ensures that any changes to the code are validated by the tests that are created.
+In this project, the goal is to implement a class called Solver with three methods (factorial, reverse, and fizzbuzz) using the test-driven development (TDD) approach. TDD involves writing tests before writing the actual code. For the factorial method, it calculates the factorial of a given number, ensuring that it handles special cases like 0 and negative numbers. The reverse method reverses a given word, and the fizzbuzz method constructs a string based on a given number, following specific rules. The TDD approach ensures that tests are written to define the expected behavior of each method, and the code is then implemented to pass those tests. This iterative process of writing tests first helps guide the development, improves code quality, and ensures that any changes to the code are validated by the tests .
 
 ## 🛠 Built With <a name="built-with"></a>
 
